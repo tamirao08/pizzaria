@@ -16,3 +16,10 @@ o meu obijetivo de fazer esse codigos espirados em pizza foi por conta que eu go
 | 3. Funcionalidades Adicionais | Implementar as funcionalidades de excluir e concluir tarefas. | 1 dias           |
 | 4. Testes e Ajustes Finais| Realizar testes de usabilidade e corrigir possíveis bugs.    | 1 dia            |
 | 5. Documentação           | Criar e adicionar o arquivo README.md com as instruções e descrição do projeto. | 1 dia
+
+
+
+#Como Executar este Projeto
+cole isso no seu terminal.
+
+https://gist.github.com/SEU_USUARIO/ID_DO_GIST.
