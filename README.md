@@ -19,9 +19,7 @@ o meu obijetivo de fazer esse codigos espirados em pizza foi por conta que eu go
 
 
 
-#Como Executar este Projeto
-
-
-cole isso no seu terminal.
+# Como Executar este Projeto
+Cole isso no seu terminal.
 
 https://gist.github.com/SEU_USUARIO/ID_DO_GIST.
